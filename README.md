@@ -4,7 +4,7 @@
 
 * Superstore lacks a clear understanding of sales dynamics across products, customer segments, and regions. W
   ith data from 2019–2020, the business seeks to uncover hidden inefficiencies, unprofitable areas, and growth
-  opportunities using data analysis and visualization.
+  opportunities using data analysis and visualization and I need 15 days sales Forcast.
 
 **Objective**
 
